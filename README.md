@@ -67,18 +67,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [MyApp](https://github.com/Leonardoq1/myapp) | Web app for managing tasks | Angular, NestJS, PostgreSQL |
-| [MobileShop](https://github.com/Leonardoq1/mobileshop) | E-commerce mobile app | React Native, Expo, Firebase |
-| [NextBlog](https://github.com/Leonardoq1/nextblog) | Blog with SSR | Next.js, TypeScript, MongoDB |
-
-</div>
-
 ---
 
 ## 📫 Contact Me
