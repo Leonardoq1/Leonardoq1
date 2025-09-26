@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm [Brayan Leonardo Alvarez Reyes](https://aristi.dev)
+# 👋 Hi, I'm Brayan Leonardo Alvarez Reyes
 **Fullstack & Mobile Developer | NestJS, Angular, Next.js, React Native, Expo**
 
 <img src="https://i.postimg.cc/bYx1pJQy/Whats-App-Image-2025-08-22-at-13-29-40.jpg" width="55%" style="border-radius:20px; border:3px solid #4CAF50;" />
