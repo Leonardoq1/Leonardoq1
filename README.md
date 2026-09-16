@@ -122,17 +122,23 @@
 ## 📊 Estadísticas Generales y Lenguajes
 
 <div align="center">
-  <!-- Incluye repositorios públicos y privados en las métricas totales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonardoq1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Estadísticas de GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoq1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" height="165" />
+  <!-- Resumen principal del perfil -->
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Resumen de Perfil" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Leonardoq1&theme=onedark&column=7&margin-w=15&no-frame=true" alt="Trofeos de GitHub" />
-  </a>
+  <!-- Repositorios y Commits por Lenguaje -->
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositorios por Lenguaje" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Commits por Lenguaje" width="49%" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Métricas de Actividad y Hábitos de Uso -->
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estadísticas de Actividad" width="49%" />
 </div>
 
 ---
