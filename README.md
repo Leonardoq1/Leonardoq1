@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    Desarrollador Full Stack con 4 años de experiencia construyendo aplicaciones web y móviles de alto rendimiento[cite: 1]. Especializado en arquitecturas de microservicios, monolitos y gestión autónoma de infraestructura en la nube[cite: 1].
+    Desarrollador Full Stack con 4 años de experiencia construyendo aplicaciones web y móviles de alto rendimiento. Especializado en arquitecturas de microservicios, monolitos y gestión autónoma de infraestructura en la nube.
   </p>
 
   <!-- Enlaces de contacto -->
@@ -29,9 +29,9 @@
 
 ## 🚀 Sobre Mí
 
-- 👨‍💻 **Experiencia:** 4 años en desarrollo web y móvil end-to-end con Next.js, NestJS y Expo[cite: 1].
-- ☁️ **DevOps & Cloud:** Gestión autónoma de infraestructura en AWS, Cloudflare, Contabo y Dokploy[cite: 1].
-- 🎓 **Educación:** Ingeniería en Desarrollo y Gestión de Software por la UTRM (2020 - 2024)[cite: 1].
+- 👨‍💻 **Experiencia:** 4 años en desarrollo web y móvil end-to-end con Next.js, NestJS y Expo.
+- ☁️ **DevOps & Cloud:** Gestión autónoma de infraestructura en AWS, Cloudflare, Contabo y Dokploy.
+- 🎓 **Educación:** Ingeniería en Desarrollo y Gestión de Software por la UTRM (2020 - 2024).
 
 ---
 
@@ -58,14 +58,14 @@
 
 ---
 
-## 💻 Proyectos & Experiencia Destacada
+## 💻 Proyectos & Experiencia destacada
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📰 Semanario Playa News</h3>
       <p align="center">
-        Arquitectura completa de portal informativo digital[cite: 1]. Panel de administración dinámico y CDN/WAF en Cloudflare[cite: 1].
+        Arquitectura completa de portal informativo digital. Panel de administración dinámico y CDN/WAF en Cloudflare.
       </p>
       <p align="center">
         <code>Next.js</code> · <code>TypeScript</code> · <code>Cloudflare R2/WAF</code>
@@ -74,7 +74,7 @@
     <td width="50%" valign="top">
       <h3 align="center">📱 Apps Móviles ILogs & Elevadores</h3>
       <p align="center">
-        Desarrollo y publicación en App Store y Google Play[cite: 1]. Transición modular a microservicios en NestJS[cite: 1].
+        Desarrollo y publicación en App Store y Google Play. Transición modular a microservicios en NestJS.
       </p>
       <p align="center">
         <code>Expo (React Native)</code> · <code>NestJS</code> · <code>AWS EC2/S3/RDS</code>
@@ -85,7 +85,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🏢 Plataforma Inmobiliaria Luums</h3>
       <p align="center">
-        Componentes interactivos de UI y optimización de transferencia de datos con GraphQL[cite: 1].
+        Componentes interactivos de UI y optimización de transferencia de datos con GraphQL.
       </p>
       <p align="center">
         <code>React</code> · <code>GraphQL</code> · <code>NestJS</code>
@@ -94,7 +94,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🌾 Sistema Offline-First</h3>
       <p align="center">
-        Sistema web/móvil con SQLite para recolección en campo sin señal y sincronización automática[cite: 1].
+        Sistema web/móvil con SQLite para recolección en campo sin señal y sincronización automática.
       </p>
       <p align="center">
         <code>SQLite</code> · <code>Offline-First</code> · <code>React Native</code>
@@ -111,17 +111,7 @@
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
----
-
-## 📈 Actividad y Tendencias de Commits
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardoq1&theme=tokyo-night&radius=8&height=300" width="100%" alt="Gráfico de actividad de commits" />
-</div>
-
----
-
-## 🐍 Animación de Contribuciones
+## 🐍 Animación de contribuciones
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Leonardoq1/Leonardoq1/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
@@ -148,5 +138,5 @@
 ---
 
 <div align="center">
-  <sub>Diseñado y mantenido por <a href="https://blarcloud.com">Brayan Leonardo Alvarez Reyes</a>[cite: 1]</sub>
+  <sub>Diseñado y mantenido por <a href="https://blarcloud.com">Brayan Leonardo Alvarez Reyes</a></sub>
 </div>
